@@ -1,0 +1,31 @@
+---
+title: "Mapeamento _Mimulus_ - Lista 6"
+author: "Letícia Lara e Marianella Quezada"
+date: "06-05-2015"
+output: html_document
+---
+
+## Detalhamento das decisões tomadas no procedimento de mapeamento
+
+Segue abaixo o link com todas as informações sobre os procedimentos realizados durante o mapeamento de _Mimulus_.
+
+http://leticia-lara.github.io/Procedimentos.html
+
+
+## Material e Métodos
+
+O material e métodos para o novo artigo pode ser acessada pelo link:
+
+http://leticia-lara.github.io/Material_e_Metodos.pdf
+
+
+## Mapa Genético
+
+O mapa genético final pode ser observado no link abaixo:
+
+http://leticia-lara.github.io/MapaMimulus.pdf
+
+
+
+
+
