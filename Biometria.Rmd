@@ -1,0 +1,59 @@
+---
+title: "Construção de Mapa Genético e Mapeamento de QTL em _Mimulus_"
+author: "Letícia Lara e Marianella Quezada"
+date: "25-06-2015"
+output: html_document
+---
+
+## Lista 6
+
+### Detalhamento das decisões tomadas no procedimento de mapeamento
+
+Segue abaixo o link com todas as informações sobre os procedimentos realizados durante o mapeamento de _Mimulus_.
+
+http://leticia-lara.github.io/Procedimentos.html
+
+
+### Material e Métodos
+
+O material e métodos para o novo artigo pode ser acessada pelo link:
+
+http://leticia-lara.github.io/Material_e_Metodos.pdf
+
+
+### Mapa Genético
+
+O mapa genético final pode ser observado no link abaixo:
+
+http://leticia-lara.github.io/MapaMimulus.pdf
+
+
+## Lista 10
+
+### Mapeamento por Intervalo e Mapeamento por Intervalo Composto
+
+Passo-a-passo dos métodos de mapeamento empregados 
+
+https://leticia-lara.github.io/IM_CIM.html
+
+
+## Lista 11
+
+### Mapeamento de Múltiplos Intervalos
+
+Detalhamento dos passos realizados no mapeamento MIM
+
+https://leticia-lara.github.io/MIM_Lista11.html
+
+### Material e Métodos
+
+O material e métodos para o artigo de mapeamento de QTLs pode ser acessada pelo link:
+
+https://leticia-lara.github.io/material_metodos_Lista11.pdf
+
+
+
+
+
+
+
